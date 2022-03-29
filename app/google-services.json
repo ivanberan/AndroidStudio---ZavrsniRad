@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "351301659330",
+    "firebase_url": "https://zavrsni2-421a2.firebaseio.com",
+    "project_id": "zavrsni2-421a2",
+    "storage_bucket": "zavrsni2-421a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351301659330:android:4925af915f4bf8f1",
+        "android_client_info": {
+          "package_name": "com.example.zavrsni2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351301659330-ck51l26616r9r6crkhgi73d10i00giuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zavrsni2",
+            "certificate_hash": "6c7f9e3aefaac12a2dcdfda71346f580ccc7e2c6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRnewlq37ts2D_SQZ5o0AF-6dTCkQay8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351301659330-gdh547r19n2jglv26evvtor22ggkditj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

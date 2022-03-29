@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zavrsni2</string>
+    <array name="sex">
+        <item>Default</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+</resources>
